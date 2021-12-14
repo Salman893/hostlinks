@@ -1,3 +1,6 @@
+mongodb+srv://Nodeuser:nodeguide@cluster0.ow333.mongodb.net/shop
+
+
 NodeJS:
 -------
 
