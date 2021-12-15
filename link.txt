@@ -13,8 +13,8 @@ NodeJS:
 
 https://node-complete-demo-app.herokuapp.com/login
 
-backend:  https://sec25restapi.herokuapp.com/
-frontend: https://sec25restapi.web.app/
+backend:  https://sec25restapi.herokuapp.com/             (https://github.com/node893/sec25restapi)
+frontend: https://sec25restapi.web.app/                   (https://github.com/node893/sec25restapi-frontend)
 
 node5@Complete
 
