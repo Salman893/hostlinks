@@ -1,6 +1,12 @@
 mongodb+srv://Nodeuser:nodeguide@cluster0.ow333.mongodb.net/shop
 
 
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/messages
+
+
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/messages?retryWrites=true&w=majority
+
+
 NodeJS:
 -------
 
