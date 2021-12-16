@@ -1,4 +1,4 @@
-mongodb+srv://Nodeuser:nodeguide@cluster0.ow333.mongodb.net/shop
+mongodb+srv://Nodeuser:nodeguide@cluster0.ow333.mongodb.net/webshop
 
 
 mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/messages
